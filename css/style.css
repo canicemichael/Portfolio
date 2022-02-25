@@ -1,0 +1,11 @@
+section {
+    padding: 60px 0;
+}
+
+.zombie {
+    border: 1rem 1rem 1rem 1rem red;
+}
+
+.view-resume {
+    margin-left: 4em;
+}
