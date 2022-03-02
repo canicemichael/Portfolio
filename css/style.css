@@ -6,6 +6,14 @@ section {
     border: 1rem 1rem 1rem 1rem red;
 }
 
-.view-resume {
-    margin-left: 4em;
+div.view-resume {
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    align-self: center;
+}
+
+h3.skilltech {
+    font-size: 20px;
+    font-weight: 400;
 }
