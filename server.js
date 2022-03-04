@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 5000;
 
 
 const transporter = nodemailer.createTransport({
-    host: "gmail.com", //my email provider
+    host: "smtp-mail.outlook.com", //my email provider
     port: 587,
     auth: {
         user: process.env.EMAIL,
