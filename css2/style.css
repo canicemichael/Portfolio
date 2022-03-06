@@ -36,3 +36,12 @@
 img.homedp {
     border-radius: 50%;
 }
+
+.about-sub {
+    font-size: 2rem;
+    text-decoration: underline;
+}
+
+.about-list {
+    font-weight: 100;
+}
