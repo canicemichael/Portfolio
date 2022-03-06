@@ -1,3 +1,23 @@
+.btn {
+    &:focus {
+        // text-decoration: $link-hover-decoration;
+        text-decoration: none;
+    }
 
+    &:hover {
+        // color: $body-color;
+        text-decoration: if($link-hover-decoration == underline, none, null);
+    }
+}
+
+.martop {
+    margin-top: 40px;
+}
+
+// .marbot {
+//     margin-bottom: 4opx;
+// }
+
+$success:       #20c997;
 
 @import '../node_modules/bootstrap/scss/bootstrap.scss'
