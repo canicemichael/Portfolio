@@ -14,13 +14,13 @@
     margin-top: 40px;
 }
 
-// .marbot {
-//     margin-bottom: 4opx;
-// }
 
 $success:       #20c997;
 
 
-@import 'customs/mixinstwo';
+
 
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+@import 'customs/homesec';
+@import 'customs/mixinstwo';

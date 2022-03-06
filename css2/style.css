@@ -11,7 +11,7 @@
     z-index: 10;
 }
 
-.parent {
+/* .parent {
     position: relative;
     width: 64em;
     height: 34.375em;
@@ -26,4 +26,13 @@
     left: 0;
     right: 0;
     margin: auto;
+} */
+
+.topit {
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+img.homedp {
+    border-radius: 50%;
 }
