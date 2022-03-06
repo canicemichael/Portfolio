@@ -20,4 +20,7 @@
 
 $success:       #20c997;
 
-@import '../node_modules/bootstrap/scss/bootstrap.scss'
+
+@import 'customs/mixinstwo';
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
