@@ -45,3 +45,15 @@ img.homedp {
 .about-list {
     font-weight: 100;
 }
+.input-borderO {
+    color: aliceblue;
+    background-color: black;
+}
+
+.form-control {
+    color: aliceblue;
+}
+
+.input-borderO:focus {
+    border-color: #20c997;
+}
